@@ -1,0 +1,3 @@
+// Package lib provides library functions ...
+package lib
+
